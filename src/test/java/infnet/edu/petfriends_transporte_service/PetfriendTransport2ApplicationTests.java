@@ -1,4 +1,4 @@
-package infnet.edu.petfriend_transport2;
+package infnet.edu.petfriends_transporte_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
