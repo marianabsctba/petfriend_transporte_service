@@ -1,4 +1,4 @@
-package infnet.edu.petfriends_transporte_service.infrastructure.dto;
+package infnet.edu.petfriends_transporte_service.interfaces.dto;
 
 import infnet.edu.petfriends_transporte_service.domain.vo.Endereco;
 import lombok.Data;
